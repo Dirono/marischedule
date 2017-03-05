@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="01f32d03-bebe-4a94-af5d-bb2130c5f317" name="schedule" url="http://marischedule.ml">
+        <fileTransfer host="marischedule.ml" port="22" privateKey="C:\Users\Marco\OneDrive\SodaMakerClub\SSH keys\privatekey.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
